@@ -689,3 +689,4 @@ E:\MyBIN\MCODE\WindowsFormsApplicationBoxX2\zedgraph_source_v515\zedgraph_source
 E:\MyBIN\MCODE\WindowsFormsApplicationBoxX2\zedgraph_source_v515\zedgraph_source_v515\ZedGraph 5.1 (.net 2)\source\obj\Debug\zh-cn\ZedGraph.resources.dll
 E:\MyBIN\MCODE\WindowsFormsApplicationBoxX2\zedgraph_source_v515\zedgraph_source_v515\ZedGraph 5.1 (.net 2)\source\obj\Debug\ZedGraph.dll
 E:\MyBIN\MCODE\WindowsFormsApplicationBoxX2\zedgraph_source_v515\zedgraph_source_v515\ZedGraph 5.1 (.net 2)\source\obj\Debug\ZedGraph.pdb
+E:\MyBIN\MCODE\WindowsFormsApplicationBoxX2\zedgraph_source_v515\zedgraph_source_v515\ZedGraph 5.1 (.net 2)\source\obj\Debug\ZedGraph.csprojResolveAssemblyReference.cache

@@ -41,6 +41,7 @@
             this.百度贴吧ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.工商银行ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.工行贵宾ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.项目源代码网站ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.splitContainer1 = new System.Windows.Forms.SplitContainer();
             this.tabControl2 = new System.Windows.Forms.TabControl();
@@ -76,14 +77,13 @@
             this.timer3 = new System.Windows.Forms.Timer(this.components);
             this.notifyIcon1 = new System.Windows.Forms.NotifyIcon(this.components);
             this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
-            this.关闭ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.最小化ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.显示主界面ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.工行贵宾用户ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.工行个人用户ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.趋势图ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.百度纸黄金吧ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.工行个人用户ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.工行贵宾用户ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.项目源代码网站ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.最小化ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.关闭ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.显示主界面ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.splitContainer1.Panel1.SuspendLayout();
             this.splitContainer1.Panel2.SuspendLayout();
@@ -202,6 +202,13 @@
             this.工行贵宾ToolStripMenuItem.Text = "工行贵宾";
             this.工行贵宾ToolStripMenuItem.Click += new System.EventHandler(this.工行贵宾ToolStripMenuItem_Click);
             // 
+            // 项目源代码网站ToolStripMenuItem
+            // 
+            this.项目源代码网站ToolStripMenuItem.Name = "项目源代码网站ToolStripMenuItem";
+            this.项目源代码网站ToolStripMenuItem.Size = new System.Drawing.Size(101, 20);
+            this.项目源代码网站ToolStripMenuItem.Text = "项目源代码网站";
+            this.项目源代码网站ToolStripMenuItem.Click += new System.EventHandler(this.项目源代码网站ToolStripMenuItem_Click);
+            // 
             // timer1
             // 
             this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
@@ -221,7 +228,7 @@
             // 
             this.splitContainer1.Panel2.Controls.Add(this.tabControl1);
             this.splitContainer1.Size = new System.Drawing.Size(1083, 633);
-            this.splitContainer1.SplitterDistance = 734;
+            this.splitContainer1.SplitterDistance = 709;
             this.splitContainer1.TabIndex = 4;
             // 
             // tabControl2
@@ -234,7 +241,7 @@
             this.tabControl2.Location = new System.Drawing.Point(0, 0);
             this.tabControl2.Name = "tabControl2";
             this.tabControl2.SelectedIndex = 0;
-            this.tabControl2.Size = new System.Drawing.Size(734, 633);
+            this.tabControl2.Size = new System.Drawing.Size(709, 633);
             this.tabControl2.TabIndex = 1;
             // 
             // tabPage3
@@ -243,7 +250,7 @@
             this.tabPage3.Location = new System.Drawing.Point(4, 22);
             this.tabPage3.Name = "tabPage3";
             this.tabPage3.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage3.Size = new System.Drawing.Size(726, 607);
+            this.tabPage3.Size = new System.Drawing.Size(701, 607);
             this.tabPage3.TabIndex = 0;
             this.tabPage3.Text = "实时数据";
             this.tabPage3.UseVisualStyleBackColor = true;
@@ -260,7 +267,7 @@
             this.zedGraphControl1.ScrollMinX = 0D;
             this.zedGraphControl1.ScrollMinY = 0D;
             this.zedGraphControl1.ScrollMinY2 = 0D;
-            this.zedGraphControl1.Size = new System.Drawing.Size(720, 601);
+            this.zedGraphControl1.Size = new System.Drawing.Size(695, 601);
             this.zedGraphControl1.TabIndex = 0;
             this.zedGraphControl1.PointEditEvent += new ZedGraph.ZedGraphControl.PointEditHandler(this.zedGraphControl1_PointEditEvent);
             this.zedGraphControl1.PointValueEvent += new ZedGraph.ZedGraphControl.PointValueHandler(this.zedGraphControl1_PointValueEvent);
@@ -344,7 +351,7 @@
             this.tabControl1.Location = new System.Drawing.Point(0, 0);
             this.tabControl1.Name = "tabControl1";
             this.tabControl1.SelectedIndex = 0;
-            this.tabControl1.Size = new System.Drawing.Size(345, 633);
+            this.tabControl1.Size = new System.Drawing.Size(370, 633);
             this.tabControl1.TabIndex = 0;
             // 
             // tabPage1
@@ -469,7 +476,7 @@
             this.tabPage6.Location = new System.Drawing.Point(4, 22);
             this.tabPage6.Name = "tabPage6";
             this.tabPage6.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage6.Size = new System.Drawing.Size(337, 607);
+            this.tabPage6.Size = new System.Drawing.Size(362, 607);
             this.tabPage6.TabIndex = 2;
             this.tabPage6.Text = "历史记录";
             this.tabPage6.UseVisualStyleBackColor = true;
@@ -489,7 +496,7 @@
             // splitContainer2.Panel2
             // 
             this.splitContainer2.Panel2.Controls.Add(this.textBox1);
-            this.splitContainer2.Size = new System.Drawing.Size(331, 601);
+            this.splitContainer2.Size = new System.Drawing.Size(356, 601);
             this.splitContainer2.SplitterDistance = 446;
             this.splitContainer2.TabIndex = 3;
             // 
@@ -512,7 +519,7 @@
             // splitContainer3.Panel2
             // 
             this.splitContainer3.Panel2.Controls.Add(this.listBox2);
-            this.splitContainer3.Size = new System.Drawing.Size(331, 446);
+            this.splitContainer3.Size = new System.Drawing.Size(356, 446);
             this.splitContainer3.SplitterDistance = 188;
             this.splitContainer3.TabIndex = 3;
             // 
@@ -578,7 +585,8 @@
             this.listBox2.Location = new System.Drawing.Point(0, 0);
             this.listBox2.Name = "listBox2";
             this.listBox2.SelectionMode = System.Windows.Forms.SelectionMode.MultiExtended;
-            this.listBox2.Size = new System.Drawing.Size(331, 254);
+            this.listBox2.Size = new System.Drawing.Size(356, 254);
+            this.listBox2.Sorted = true;
             this.listBox2.TabIndex = 0;
             this.listBox2.SelectedIndexChanged += new System.EventHandler(this.listBox2_SelectedIndexChanged_1);
             // 
@@ -589,7 +597,7 @@
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
             this.textBox1.ScrollBars = System.Windows.Forms.ScrollBars.Both;
-            this.textBox1.Size = new System.Drawing.Size(331, 151);
+            this.textBox1.Size = new System.Drawing.Size(356, 151);
             this.textBox1.TabIndex = 0;
             // 
             // timer2
@@ -622,61 +630,54 @@
             this.contextMenuStrip1.Size = new System.Drawing.Size(143, 158);
             this.contextMenuStrip1.Opening += new System.ComponentModel.CancelEventHandler(this.contextMenuStrip1_Opening);
             // 
-            // 关闭ToolStripMenuItem
+            // 工行贵宾用户ToolStripMenuItem
             // 
-            this.关闭ToolStripMenuItem.Name = "关闭ToolStripMenuItem";
-            this.关闭ToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
-            this.关闭ToolStripMenuItem.Text = "关闭";
-            this.关闭ToolStripMenuItem.Click += new System.EventHandler(this.关闭ToolStripMenuItem_Click);
+            this.工行贵宾用户ToolStripMenuItem.Name = "工行贵宾用户ToolStripMenuItem";
+            this.工行贵宾用户ToolStripMenuItem.Size = new System.Drawing.Size(142, 22);
+            this.工行贵宾用户ToolStripMenuItem.Text = "工行贵宾用户";
+            this.工行贵宾用户ToolStripMenuItem.Click += new System.EventHandler(this.工行贵宾用户ToolStripMenuItem_Click);
             // 
-            // 最小化ToolStripMenuItem
+            // 工行个人用户ToolStripMenuItem
             // 
-            this.最小化ToolStripMenuItem.Name = "最小化ToolStripMenuItem";
-            this.最小化ToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
-            this.最小化ToolStripMenuItem.Text = "最小化";
-            this.最小化ToolStripMenuItem.Click += new System.EventHandler(this.最小化ToolStripMenuItem_Click);
-            // 
-            // 显示主界面ToolStripMenuItem
-            // 
-            this.显示主界面ToolStripMenuItem.Name = "显示主界面ToolStripMenuItem";
-            this.显示主界面ToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
-            this.显示主界面ToolStripMenuItem.Text = "显示主界面";
-            this.显示主界面ToolStripMenuItem.Click += new System.EventHandler(this.显示主界面ToolStripMenuItem_Click);
+            this.工行个人用户ToolStripMenuItem.Name = "工行个人用户ToolStripMenuItem";
+            this.工行个人用户ToolStripMenuItem.Size = new System.Drawing.Size(142, 22);
+            this.工行个人用户ToolStripMenuItem.Text = "工行个人用户";
+            this.工行个人用户ToolStripMenuItem.Click += new System.EventHandler(this.工行个人用户ToolStripMenuItem_Click);
             // 
             // 趋势图ToolStripMenuItem
             // 
             this.趋势图ToolStripMenuItem.Name = "趋势图ToolStripMenuItem";
-            this.趋势图ToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.趋势图ToolStripMenuItem.Size = new System.Drawing.Size(142, 22);
             this.趋势图ToolStripMenuItem.Text = "黄金趋势图";
             this.趋势图ToolStripMenuItem.Click += new System.EventHandler(this.趋势图ToolStripMenuItem_Click);
             // 
             // 百度纸黄金吧ToolStripMenuItem
             // 
             this.百度纸黄金吧ToolStripMenuItem.Name = "百度纸黄金吧ToolStripMenuItem";
-            this.百度纸黄金吧ToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.百度纸黄金吧ToolStripMenuItem.Size = new System.Drawing.Size(142, 22);
             this.百度纸黄金吧ToolStripMenuItem.Text = "百度纸黄金吧";
             this.百度纸黄金吧ToolStripMenuItem.Click += new System.EventHandler(this.百度纸黄金吧ToolStripMenuItem_Click);
             // 
-            // 工行个人用户ToolStripMenuItem
+            // 最小化ToolStripMenuItem
             // 
-            this.工行个人用户ToolStripMenuItem.Name = "工行个人用户ToolStripMenuItem";
-            this.工行个人用户ToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
-            this.工行个人用户ToolStripMenuItem.Text = "工行个人用户";
-            this.工行个人用户ToolStripMenuItem.Click += new System.EventHandler(this.工行个人用户ToolStripMenuItem_Click);
+            this.最小化ToolStripMenuItem.Name = "最小化ToolStripMenuItem";
+            this.最小化ToolStripMenuItem.Size = new System.Drawing.Size(142, 22);
+            this.最小化ToolStripMenuItem.Text = "最小化";
+            this.最小化ToolStripMenuItem.Click += new System.EventHandler(this.最小化ToolStripMenuItem_Click);
             // 
-            // 工行贵宾用户ToolStripMenuItem
+            // 关闭ToolStripMenuItem
             // 
-            this.工行贵宾用户ToolStripMenuItem.Name = "工行贵宾用户ToolStripMenuItem";
-            this.工行贵宾用户ToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
-            this.工行贵宾用户ToolStripMenuItem.Text = "工行贵宾用户";
-            this.工行贵宾用户ToolStripMenuItem.Click += new System.EventHandler(this.工行贵宾用户ToolStripMenuItem_Click);
+            this.关闭ToolStripMenuItem.Name = "关闭ToolStripMenuItem";
+            this.关闭ToolStripMenuItem.Size = new System.Drawing.Size(142, 22);
+            this.关闭ToolStripMenuItem.Text = "关闭";
+            this.关闭ToolStripMenuItem.Click += new System.EventHandler(this.关闭ToolStripMenuItem_Click);
             // 
-            // 项目源代码网站ToolStripMenuItem
+            // 显示主界面ToolStripMenuItem
             // 
-            this.项目源代码网站ToolStripMenuItem.Name = "项目源代码网站ToolStripMenuItem";
-            this.项目源代码网站ToolStripMenuItem.Size = new System.Drawing.Size(101, 20);
-            this.项目源代码网站ToolStripMenuItem.Text = "项目源代码网站";
-            this.项目源代码网站ToolStripMenuItem.Click += new System.EventHandler(this.项目源代码网站ToolStripMenuItem_Click);
+            this.显示主界面ToolStripMenuItem.Name = "显示主界面ToolStripMenuItem";
+            this.显示主界面ToolStripMenuItem.Size = new System.Drawing.Size(142, 22);
+            this.显示主界面ToolStripMenuItem.Text = "显示主界面";
+            this.显示主界面ToolStripMenuItem.Click += new System.EventHandler(this.显示主界面ToolStripMenuItem_Click);
             // 
             // FormBox
             // 

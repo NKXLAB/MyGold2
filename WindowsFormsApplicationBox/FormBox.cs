@@ -60,6 +60,11 @@ namespace WindowsFormsApplicationBox
             timer3.Interval = 100;
             timer3.Enabled = true;
 
+
+            DateTime VVVV = DateTime.Now;
+            string CC = VVVV.Year + "_" + VVVV.Month.ToString("D2") + "_" + VVVV.Day.ToString("D2") + "_" + VVVV.Hour.ToString("D2") + "_" + VVVV.Minute.ToString("D2") + "_" + VVVV.Second.ToString("D2") + " "  ;
+
+            CC += "Z";
         }
         
           private void timer3_Tick(object sender, EventArgs e)
@@ -130,7 +135,7 @@ namespace WindowsFormsApplicationBox
                 if (System.IO.Directory.Exists(PathxD) == false)
                     System.IO.Directory.CreateDirectory(PathxD);
 
-                string Pathx = System.IO.Path.Combine(PathxD, VVVV.Year + "_" + VVVV.Month + "_" + VVVV.Day + "_" + VVVV.Hour + "_" + VVVV.Minute + ".txt");
+                string Pathx = System.IO.Path.Combine(PathxD, VVVV.Year + "_" + VVVV.Month.ToString("D2") + "_" + VVVV.Day.ToString("D2") + "_" + VVVV.Hour.ToString("D2") + "_" + VVVV.Minute.ToString("D2") + ".txt");
 
                 System.IO.File.WriteAllText(Pathx, AAAA);
 
@@ -179,7 +184,11 @@ namespace WindowsFormsApplicationBox
                 BaseLine(X_VAL, Y_VAL);
             }
 
+            登陆ToolStripMenuItem_Click(null, null);
+
             timer1.Enabled = true;
+
+
 
             try
             {
@@ -253,7 +262,7 @@ namespace WindowsFormsApplicationBox
                         if (YZHEN1 + 40 == YZHEN3 && YZHEN2 - 40 == YZHEN3 )
                         {
                             DateTime VVVV = DateTime.Now;
-                            string CC = VVVV.Year + "_" + VVVV.Month + "_" + VVVV.Day + "_" + VVVV.Hour + "_" + VVVV.Minute + "_" + VVVV.Second + " " + data1 + " " + data2 + " " + data3;
+                            string CC = VVVV.Year + "_" + VVVV.Month.ToString("D2") + "_" + VVVV.Day.ToString("D2") + "_" + VVVV.Hour.ToString("D2") + "_" + VVVV.Minute.ToString("D2") + "_" + VVVV.Second.ToString("D2") + " " + data1 + " " + data2 + " " + data3;
                           //  listBox1.Items.Add(CC);
                             BVC.Add(CC);
                             ZZZ = nA3;
