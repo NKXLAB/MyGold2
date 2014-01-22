@@ -1,0 +1,64 @@
+E:\MyBIN\MCODE\WindowsFormsApplicationBox\WindowsFormsApplicationBox\bin\Debug\WindowsFormsApplicationBox.exe
+E:\MyBIN\MCODE\WindowsFormsApplicationBox\WindowsFormsApplicationBox\bin\Debug\WindowsFormsApplicationBox.pdb
+E:\MyBIN\MCODE\WindowsFormsApplicationBox\WindowsFormsApplicationBox\obj\x86\Debug\WindowsFormsApplicationBox.Properties.Resources.resources
+E:\MyBIN\MCODE\WindowsFormsApplicationBox\WindowsFormsApplicationBox\obj\x86\Debug\WindowsFormsApplicationBox.csproj.GenerateResource.Cache
+E:\MyBIN\MCODE\WindowsFormsApplicationBox\WindowsFormsApplicationBox\obj\x86\Debug\WindowsFormsApplicationBox.exe
+E:\MyBIN\MCODE\WindowsFormsApplicationBox\WindowsFormsApplicationBox\obj\x86\Debug\WindowsFormsApplicationBox.pdb
+E:\MyBIN\MCODE\WindowsFormsApplicationBox\WindowsFormsApplicationBox\bin\Debug\ZedGraph.dll
+E:\MyBIN\MCODE\WindowsFormsApplicationBox\WindowsFormsApplicationBox\obj\x86\Debug\WindowsFormsApplicationBox.csprojResolveAssemblyReference.cache
+E:\MyBIN\MCODE\WindowsFormsApplicationBox\WindowsFormsApplicationBox\obj\x86\Debug\WindowsFormsApplicationBox.FormBox.resources
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplicationBox\WindowsFormsApplicationBox\obj\x86\Debug\WindowsFormsApplicationBox.exe
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplicationBox\WindowsFormsApplicationBox\obj\x86\Debug\WindowsFormsApplicationBox.pdb
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplicationBox\WindowsFormsApplicationBox\bin\Debug\WindowsFormsApplicationBox.exe
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplicationBox\WindowsFormsApplicationBox\bin\Debug\WindowsFormsApplicationBox.pdb
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplicationBox\WindowsFormsApplicationBox\bin\Debug\ZedGraph.dll
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplicationBox\WindowsFormsApplicationBox\bin\Debug\ZedGraph.pdb
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplicationBox\WindowsFormsApplicationBox\bin\Debug\de\ZedGraph.resources.dll
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplicationBox\WindowsFormsApplicationBox\bin\Debug\es\ZedGraph.resources.dll
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplicationBox\WindowsFormsApplicationBox\bin\Debug\fr\ZedGraph.resources.dll
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplicationBox\WindowsFormsApplicationBox\bin\Debug\hu\ZedGraph.resources.dll
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplicationBox\WindowsFormsApplicationBox\bin\Debug\it\ZedGraph.resources.dll
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplicationBox\WindowsFormsApplicationBox\bin\Debug\ja\ZedGraph.resources.dll
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplicationBox\WindowsFormsApplicationBox\bin\Debug\pt\ZedGraph.resources.dll
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplicationBox\WindowsFormsApplicationBox\bin\Debug\ru\ZedGraph.resources.dll
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplicationBox\WindowsFormsApplicationBox\bin\Debug\sk\ZedGraph.resources.dll
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplicationBox\WindowsFormsApplicationBox\bin\Debug\sv\ZedGraph.resources.dll
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplicationBox\WindowsFormsApplicationBox\bin\Debug\tr\ZedGraph.resources.dll
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplicationBox\WindowsFormsApplicationBox\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplicationBox\WindowsFormsApplicationBox\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplicationBox\WindowsFormsApplicationBox\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplicationBox\WindowsFormsApplicationBox\obj\x86\Debug\WindowsFormsApplicationBox.FormBox.resources
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplicationBox\WindowsFormsApplicationBox\obj\x86\Debug\WindowsFormsApplicationBox.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplicationBox\WindowsFormsApplicationBox\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplicationBox\WindowsFormsApplicationBox\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplicationBox\WindowsFormsApplicationBox\obj\x86\Debug\WindowsFormsApplicationBox.FormIE.resources
+C:\Documents and Settings\Administrator\桌面\WindowsFormsApplicationBox\WindowsFormsApplicationBox\obj\x86\Debug\WindowsFormsApplicationBox.FormIE2.resources
+E:\MyBIN\MCODE\WindowsFormsApplicationBoxX\WindowsFormsApplicationBox\obj\x86\Debug\WindowsFormsApplicationBox.exe
+E:\MyBIN\MCODE\WindowsFormsApplicationBoxX\WindowsFormsApplicationBox\obj\x86\Debug\WindowsFormsApplicationBox.pdb
+E:\MyBIN\MCODE\WindowsFormsApplicationBoxX\WindowsFormsApplicationBox\bin\Debug\WindowsFormsApplicationBox.exe
+E:\MyBIN\MCODE\WindowsFormsApplicationBoxX\WindowsFormsApplicationBox\bin\Debug\WindowsFormsApplicationBox.pdb
+E:\MyBIN\MCODE\WindowsFormsApplicationBoxX\WindowsFormsApplicationBox\bin\Debug\ZedGraph.dll
+E:\MyBIN\MCODE\WindowsFormsApplicationBoxX\WindowsFormsApplicationBox\bin\Debug\ZedGraph.pdb
+E:\MyBIN\MCODE\WindowsFormsApplicationBoxX\WindowsFormsApplicationBox\bin\Debug\de\ZedGraph.resources.dll
+E:\MyBIN\MCODE\WindowsFormsApplicationBoxX\WindowsFormsApplicationBox\bin\Debug\es\ZedGraph.resources.dll
+E:\MyBIN\MCODE\WindowsFormsApplicationBoxX\WindowsFormsApplicationBox\bin\Debug\fr\ZedGraph.resources.dll
+E:\MyBIN\MCODE\WindowsFormsApplicationBoxX\WindowsFormsApplicationBox\bin\Debug\hu\ZedGraph.resources.dll
+E:\MyBIN\MCODE\WindowsFormsApplicationBoxX\WindowsFormsApplicationBox\bin\Debug\it\ZedGraph.resources.dll
+E:\MyBIN\MCODE\WindowsFormsApplicationBoxX\WindowsFormsApplicationBox\bin\Debug\ja\ZedGraph.resources.dll
+E:\MyBIN\MCODE\WindowsFormsApplicationBoxX\WindowsFormsApplicationBox\bin\Debug\pt\ZedGraph.resources.dll
+E:\MyBIN\MCODE\WindowsFormsApplicationBoxX\WindowsFormsApplicationBox\bin\Debug\ru\ZedGraph.resources.dll
+E:\MyBIN\MCODE\WindowsFormsApplicationBoxX\WindowsFormsApplicationBox\bin\Debug\sk\ZedGraph.resources.dll
+E:\MyBIN\MCODE\WindowsFormsApplicationBoxX\WindowsFormsApplicationBox\bin\Debug\sv\ZedGraph.resources.dll
+E:\MyBIN\MCODE\WindowsFormsApplicationBoxX\WindowsFormsApplicationBox\bin\Debug\tr\ZedGraph.resources.dll
+E:\MyBIN\MCODE\WindowsFormsApplicationBoxX\WindowsFormsApplicationBox\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\MyBIN\MCODE\WindowsFormsApplicationBoxX\WindowsFormsApplicationBox\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\MyBIN\MCODE\WindowsFormsApplicationBoxX\WindowsFormsApplicationBox\obj\x86\Debug\WindowsFormsApplicationBox.csprojResolveAssemblyReference.cache
+E:\MyBIN\MCODE\WindowsFormsApplicationBoxX\WindowsFormsApplicationBox\obj\x86\Debug\WindowsFormsApplicationBox.FormBox.resources
+E:\MyBIN\MCODE\WindowsFormsApplicationBoxX\WindowsFormsApplicationBox\obj\x86\Debug\WindowsFormsApplicationBox.FormIE.resources
+E:\MyBIN\MCODE\WindowsFormsApplicationBoxX\WindowsFormsApplicationBox\obj\x86\Debug\WindowsFormsApplicationBox.Properties.Resources.resources
+E:\MyBIN\MCODE\WindowsFormsApplicationBoxX\WindowsFormsApplicationBox\obj\x86\Debug\WindowsFormsApplicationBox.FormIE2.resources
+E:\MyBIN\MCODE\WindowsFormsApplicationBoxX\WindowsFormsApplicationBox\obj\x86\Debug\WindowsFormsApplicationBox.csproj.GenerateResource.Cache
+E:\MyBIN\MCODE\WindowsFormsApplicationBoxX\WindowsFormsApplicationBox\bin\Debug\WindowsFormsApplicationBox.exe.config
+E:\MyBIN\MCODE\WindowsFormsApplicationBoxX2\WindowsFormsApplicationBox\bin\Debug\WindowsFormsApplicationBox.exe.config
+E:\MyBIN\MCODE\WindowsFormsApplicationBoxX2\WindowsFormsApplicationBox\obj\x86\Debug\WindowsFormsApplicationBox.exe
+E:\MyBIN\MCODE\WindowsFormsApplicationBoxX2\WindowsFormsApplicationBox\obj\x86\Debug\WindowsFormsApplicationBox.pdb

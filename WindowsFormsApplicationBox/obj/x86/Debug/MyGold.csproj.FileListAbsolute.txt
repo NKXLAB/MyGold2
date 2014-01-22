@@ -1,0 +1,15 @@
+E:\MyBIN\MCODE\WindowsFormsApplicationBoxX2\WindowsFormsApplicationBox\bin\Debug\ZedGraph.dll
+E:\MyBIN\MCODE\WindowsFormsApplicationBoxX2\WindowsFormsApplicationBox\bin\Debug\ZedGraph.pdb
+E:\MyBIN\MCODE\WindowsFormsApplicationBoxX2\WindowsFormsApplicationBox\bin\Debug\es\ZedGraph.resources.dll
+E:\MyBIN\MCODE\WindowsFormsApplicationBoxX2\WindowsFormsApplicationBox\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\MyBIN\MCODE\WindowsFormsApplicationBoxX2\WindowsFormsApplicationBox\obj\x86\Debug\MyGold.csprojResolveAssemblyReference.cache
+E:\MyBIN\MCODE\WindowsFormsApplicationBoxX2\WindowsFormsApplicationBox\obj\x86\Debug\WindowsFormsApplicationBox.FormBox.resources
+E:\MyBIN\MCODE\WindowsFormsApplicationBoxX2\WindowsFormsApplicationBox\obj\x86\Debug\WindowsFormsApplicationBox.FormIE.resources
+E:\MyBIN\MCODE\WindowsFormsApplicationBoxX2\WindowsFormsApplicationBox\obj\x86\Debug\WindowsFormsApplicationBox.FormIE2.resources
+E:\MyBIN\MCODE\WindowsFormsApplicationBoxX2\WindowsFormsApplicationBox\obj\x86\Debug\MyGold.csproj.GenerateResource.Cache
+E:\MyBIN\MCODE\WindowsFormsApplicationBoxX2\WindowsFormsApplicationBox\bin\Debug\MyGold.exe.config
+E:\MyBIN\MCODE\WindowsFormsApplicationBoxX2\WindowsFormsApplicationBox\bin\Debug\MyGold.exe
+E:\MyBIN\MCODE\WindowsFormsApplicationBoxX2\WindowsFormsApplicationBox\bin\Debug\MyGold.pdb
+E:\MyBIN\MCODE\WindowsFormsApplicationBoxX2\WindowsFormsApplicationBox\obj\x86\Debug\MyGold.Properties.Resources.resources
+E:\MyBIN\MCODE\WindowsFormsApplicationBoxX2\WindowsFormsApplicationBox\obj\x86\Debug\MyGold.exe
+E:\MyBIN\MCODE\WindowsFormsApplicationBoxX2\WindowsFormsApplicationBox\obj\x86\Debug\MyGold.pdb
