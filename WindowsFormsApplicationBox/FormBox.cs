@@ -184,7 +184,7 @@ namespace WindowsFormsApplicationBox
                 BaseLine(X_VAL, Y_VAL);
             }
 
-            登陆ToolStripMenuItem_Click(null, null);
+            webBrowser1.Navigate(urls);
 
             timer1.Enabled = true;
 
